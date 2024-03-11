@@ -1,24 +1,23 @@
-body{
-    background-color: wheat;
-    
+body {
+  background-color: wheat;
 }
 
-h1{
-    color: darkgray;
-    text-align: center;
+h1 {
+  color: blueviolet;
+  text-align: center;
 }
 
-p{
-    color: aliceblue;
-    text-align: center;
+p {
+  color: aliceblue;
+  text-align: center;
 }
 
-header{
-    background-color: blanchedalmond;
-    height: 150px;
+header {
+  background-color: blanchedalmond;
+  height: 150px;
 }
 
-footer{
-    background-color: blanchedalmond;
-    height: 150px;
+footer {
+  background-color: blanchedalmond;
+  height: 150px;
 }
